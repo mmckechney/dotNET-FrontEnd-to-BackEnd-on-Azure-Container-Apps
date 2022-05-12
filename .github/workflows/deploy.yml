@@ -8,7 +8,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: rg-store-demo
+  RESOURCE_GROUP_NAME: storedemo
 
   # specify your preferred region
   REGION: eastus
